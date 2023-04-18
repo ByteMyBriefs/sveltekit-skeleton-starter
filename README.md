@@ -1,11 +1,11 @@
 # ByteMyBrief's SvelteKit Template
 
 This is a simple template that integrates Tailwind, Skeleton UI, and TablerIcons
-for you. In addition, it includes the
+for you. Additionally, it includes the
 [typescript-svelte-plugin](https://github.com/sveltejs/language-tools/tree/master/packages/typescript-plugin)
 for those of you who use Neovim.
 
-It is meant to be as minimal as possible.
+**It is meant to be as minimal as possible.**
 
 > Please see [Tailwind's](https://tailwindcss.com/),
 > [Skeleton's](https://www.skeleton.dev/), and
