@@ -1,11 +1,15 @@
 # ByteMyBrief's SvelteKit Template
 
 This is a simple template that integrates Tailwind, Skeleton UI, and TablerIcons
-for you. It is meant to be as minimal as possible.
+for you. In addition, it includes the
+[typescript-svelte-plugin](https://github.com/sveltejs/language-tools/tree/master/packages/typescript-plugin)
+for those of you who use Neovim.
 
-> Please see the (Tailwind's)[https://tailwindcss.com/],
-> (Skeleton's)[https://www.skeleton.dev/], and (Tabler
-> Icons')[https://tabler.io/] own documentation for further information.
+It is meant to be as minimal as possible.
+
+> Please see [Tailwind's](https://tailwindcss.com/),
+> [Skeleton's](https://www.skeleton.dev/), and
+> [Tabler Icons'](https://tabler.io/) own documentation for further information.
 
 ## Developing
 
